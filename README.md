@@ -35,6 +35,21 @@ to a multi-region SaaS bar.
 
 ## Install
 
+**Importing from GitHub** (marketplaces, or any skill importer that takes a URL) — paste
+**this** URL. It points at the folder that contains `SKILL.md`, which is one level below the
+repo root:
+
+```
+https://github.com/tohir-dev/aqly-production-readiness/tree/main/production-readiness
+```
+
+> ⚠️ The bare repo URL (`https://github.com/tohir-dev/aqly-production-readiness`) will **not** work —
+> there is no `SKILL.md` at the repo root.
+
+**Installing manually** — clone or download the repo, then copy the inner
+**`production-readiness/`** folder (not the `aqly-production-readiness` repo folder — the skill directory name must
+match the `name:` in `SKILL.md`).
+
 **Project scope** — available in one repo:
 
 ```bash
