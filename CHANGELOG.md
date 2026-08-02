@@ -7,6 +7,10 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and
 
 ## [Unreleased]
 
+_Nothing yet._
+
+## [1.1.0] — 2026-08-02
+
 ### Changed
 
 - **Licence — added a free-use grant.** Personal use, internal business use, modification for your own
@@ -18,9 +22,6 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and
 - **Install instructions** now point at the skill folder (`.../tree/main/production-readiness`) rather than the
   repository root, which contains no `SKILL.md` and cannot be imported.
 
-> These changes are live on `main`, so they already reach anyone importing from it, but they are not
-> yet covered by a version tag.
-
 ## [1.0.0] — 2026-08-01
 
 ### Added
@@ -31,5 +32,6 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and
 - A SHOULD-HAVE maturity list recorded as follow-ups rather than blockers.
 - Evidence discipline: an item claimed met without evidence is not met, and an unverifiable item is reported rather than assumed.
 
-[Unreleased]: https://github.com/tohir-dev/aqly-production-readiness/compare/v1.0.0...main
+[Unreleased]: https://github.com/tohir-dev/aqly-production-readiness/compare/v1.1.0...main
+[1.1.0]: https://github.com/tohir-dev/aqly-production-readiness/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/tohir-dev/aqly-production-readiness/releases/tag/v1.0.0
