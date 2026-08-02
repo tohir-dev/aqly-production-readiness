@@ -35,12 +35,9 @@ to a multi-region SaaS bar.
 
 ## Install
 
-This is a **private repository**. Access is granted with your purchase — if you cannot reach
-it, contact support with your licence key rather than assuming the link is broken.
-
-**Importing from GitHub** (marketplaces, or any skill importer that takes a URL) — use your
-importer's **private-repository** option, authorize access, and paste **this** URL. It points
-at the folder that contains `SKILL.md`, one level below the repo root:
+**Importing from GitHub** (marketplaces, or any skill importer that takes a URL) — paste
+**this** URL. It points at the folder that contains `SKILL.md`, which is one level below the
+repo root:
 
 ```
 https://github.com/tohir-dev/aqly-production-readiness/tree/main/production-readiness
@@ -49,9 +46,9 @@ https://github.com/tohir-dev/aqly-production-readiness/tree/main/production-read
 > ⚠️ The bare repo URL (`https://github.com/tohir-dev/aqly-production-readiness`) will **not** work —
 > there is no `SKILL.md` at the repo root.
 
-**Installing manually** — once access is granted, clone or download the repo, then copy the
-inner **`production-readiness/`** folder (not the `aqly-production-readiness` repo folder — the skill directory
-name must match the `name:` in `SKILL.md`).
+**Installing manually** — clone or download the repo, then copy the inner
+**`production-readiness/`** folder (not the `aqly-production-readiness` repo folder — the skill directory name must
+match the `name:` in `SKILL.md`).
 
 **Project scope** — available in one repo:
 
