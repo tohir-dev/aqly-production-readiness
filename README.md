@@ -89,7 +89,9 @@ It also stands entirely on its own — point it at any repo.
 
 ## License
 
-See [LICENSE](LICENSE).
+**Free to use** — personal use and internal business use, including work you produce for
+clients, at no charge. Modify it for your own use freely. **Redistribution, resale, and
+repackaging are not permitted.** Full terms in [LICENSE](LICENSE).
 
 ---
 
